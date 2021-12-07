@@ -1,0 +1,4 @@
+name: ${pluginName}
+main: ${group}.${packageName}.plugin.${pluginName}Plugin
+version: ${version}
+api-version: 1.17
